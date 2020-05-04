@@ -1,5 +1,9 @@
 # node-hello
 
+![Node.js CI](https://github.com/practical-lab/node-hello/workflows/Node.js%20CI/badge.svg)
+
+## Introduction
+
 This project is based on the following tools.
 
 - docker
