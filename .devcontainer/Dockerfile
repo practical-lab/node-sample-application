@@ -7,6 +7,11 @@
 # https://github.com/microsoft/vscode-dev-containers/tree/v0.112.0/containers/typescript-node-12/.devcontainer/Dockerfile
 FROM mcr.microsoft.com/vscode/devcontainers/typescript-node:0-12
 
+# RUN apt-get -y install software-properties-common
+#     && add-apt-repository ppa:git-core/ppa
+#     && apt-get update
+#     && apt-get upgrade
+
 # ** [Optional] Uncomment this section to install additional packages. **
 #
 # ENV DEBIAN_FRONTEND=noninteractive
